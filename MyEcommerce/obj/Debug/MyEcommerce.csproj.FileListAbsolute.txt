@@ -56,3 +56,6 @@ D:\Projects\ASP.NET MVC Projects\MyEcommerce\MyEcommerce\obj\Debug\MyEcommerce.c
 D:\Projects\ASP.NET MVC Projects\MyEcommerce\MyEcommerce\obj\Debug\MyEcommerce.csproj.CopyComplete
 D:\Projects\ASP.NET MVC Projects\MyEcommerce\MyEcommerce\obj\Debug\MyEcommerce.dll
 D:\Projects\ASP.NET MVC Projects\MyEcommerce\MyEcommerce\obj\Debug\MyEcommerce.pdb
+D:\Projects\ASP.NET MVC Projects\MyEcommerce\MyEcommerce\bin\EntityFramework.dll
+D:\Projects\ASP.NET MVC Projects\MyEcommerce\MyEcommerce\bin\DataLayer.dll.config
+D:\Projects\ASP.NET MVC Projects\MyEcommerce\MyEcommerce\bin\EntityFramework.xml

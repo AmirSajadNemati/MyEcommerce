@@ -4,3 +4,9 @@ D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\obj\Debug\DataLayer.cspro
 D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
 D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\obj\Debug\DataLayer.dll
 D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\obj\Debug\DataLayer.pdb
+D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\bin\Debug\EntityFramework.dll
+D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\bin\Debug\EntityFramework.xml
+D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete

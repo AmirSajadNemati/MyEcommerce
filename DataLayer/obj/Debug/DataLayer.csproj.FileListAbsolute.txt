@@ -10,3 +10,5 @@ D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\bin\Debug\EntityFramework
 D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\bin\Debug\EntityFramework.xml
 D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
 D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\obj\Debug\DataLayer.Migrations.Initializing_Database.resources
+D:\Projects\ASP.NET MVC Projects\MyEcommerce\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache

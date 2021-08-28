@@ -12,8 +12,8 @@ namespace DataLayer
         [Key]
         public int CategoryID { get; set; }
 
-        [Display(Name = "")]
-        [MaxLength()]
+        [Display(Name = "نام دسته بندی")]
+        [MaxLength(200)]
         [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
         public string CategoryName { get; set; }
 
